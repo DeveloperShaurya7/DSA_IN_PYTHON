@@ -1,0 +1,12 @@
+psuedocode -- comment do not check this
+
+start
+input number
+    if number mod 2 = 0 then
+        print even
+    else
+        print odd
+    end if
+stop
+
+

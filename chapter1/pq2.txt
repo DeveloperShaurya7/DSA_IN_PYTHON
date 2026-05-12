@@ -1,0 +1,15 @@
+start
+    input a,b,c
+
+    if a > b and a > c then
+        print a 
+
+    else if b > a and b > c then
+        print b 
+
+    else c > a and c > b then
+        print c
+
+    end if
+
+stop
